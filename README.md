@@ -30,9 +30,8 @@ lots of NZ gis data using SRID 27200 -
 * Point in polygon 
   * http://blog.crazystyle.net/2014/06/10/spatialite-find-if-point-is-in-polygon/
   * https://gis.stackexchange.com/questions/159366/help-finding-point-in-polygon-via-spatialite-with-example-karst-zones-data
- 
-Network routing - https://www.gaia-gis.it/spatialite-2.3.0/spatialite-network-2.3.0.html
+* Network routing - https://www.gaia-gis.it/spatialite-2.3.0/spatialite-network-2.3.0.html
  
 ### NZ linz data 
 
-https://data.linz.govt.nz/layer/88139-porirua-0075m-urban-aerial-photos-2016/
+* https://data.linz.govt.nz/layer/88139-porirua-0075m-urban-aerial-photos-2016/
