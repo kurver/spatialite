@@ -23,17 +23,13 @@ lots of NZ gis data using SRID 27200 -
 
 ## Links
 
-Docs - https://www.gaia-gis.it/gaia-sins/spatialite_topics.html
-Cookbook - https://www.gaia-gis.it/fossil/libspatialite/wiki?name=misc-docs
-
-https://www.gaia-gis.it/spatialite-1.0a/SpatiaLite-tutorial.html#t2.1
-
-What is spatialite - https://www.bostongis.com/PrinterFriendly.aspx?content_name=spatialite_tut01
-
-Point in polygon 
-
-* http://blog.crazystyle.net/2014/06/10/spatialite-find-if-point-is-in-polygon/
-* https://gis.stackexchange.com/questions/159366/help-finding-point-in-polygon-via-spatialite-with-example-karst-zones-data
+* Docs - https://www.gaia-gis.it/gaia-sins/spatialite_topics.html
+* Cookbook - https://www.gaia-gis.it/fossil/libspatialite/wiki?name=misc-docs
+* Tutorial - https://www.gaia-gis.it/spatialite-1.0a/SpatiaLite-tutorial.html#t2.1
+* What is spatialite - https://www.bostongis.com/PrinterFriendly.aspx?content_name=spatialite_tut01
+* Point in polygon 
+  * http://blog.crazystyle.net/2014/06/10/spatialite-find-if-point-is-in-polygon/
+  * https://gis.stackexchange.com/questions/159366/help-finding-point-in-polygon-via-spatialite-with-example-karst-zones-data
  
 Network routing - https://www.gaia-gis.it/spatialite-2.3.0/spatialite-network-2.3.0.html
  
