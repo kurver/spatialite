@@ -31,6 +31,8 @@ lots of NZ gis data using SRID 27200 -
   * http://blog.crazystyle.net/2014/06/10/spatialite-find-if-point-is-in-polygon/
   * https://gis.stackexchange.com/questions/159366/help-finding-point-in-polygon-via-spatialite-with-example-karst-zones-data
 * Network routing - https://www.gaia-gis.it/spatialite-2.3.0/spatialite-network-2.3.0.html
+* Java
+  * jdbc - https://www.gaia-gis.it/spatialite-2.4.0-4/splite-jdbc.html
  
 ### NZ linz data 
 
